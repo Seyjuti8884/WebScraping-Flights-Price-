@@ -1,0 +1,306 @@
+[
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2431, 6E 909",
+        "Ticket Cost": "\u20b9 9,734\nper traveller",
+        "Timing": "05 h 45 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 6797",
+        "Ticket Cost": "\u20b9 11,519\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 745, I5 975",
+        "Ticket Cost": "\u20b9 11,565\nper traveller",
+        "Timing": "14 h 20 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 6383",
+        "Ticket Cost": "\u20b9 12,248\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2514",
+        "Ticket Cost": "\u20b9 12,248\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 441, AI 621",
+        "Ticket Cost": "\u20b9 12,319\nper traveller",
+        "Timing": "12 h 35 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Vistara",
+        "Airline_number": "UK 819",
+        "Ticket Cost": "\u20b9 13,021\nper traveller",
+        "Timing": "02 h 35 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2141, 6E 6803",
+        "Ticket Cost": "\u20b9 13,311\nper traveller",
+        "Timing": "09 h",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 781",
+        "Ticket Cost": "\u20b9 14,498\nper traveller",
+        "Timing": "03 h",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "SpiceJet",
+        "Airline_number": "SG 8143",
+        "Ticket Cost": "\u20b9 14,741\nper traveller",
+        "Timing": "02 h 45 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 548, I5 1426",
+        "Ticket Cost": "\u20b9 14,764\nper traveller",
+        "Timing": "05 h 30 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 6612",
+        "Ticket Cost": "\u20b9 15,260\nper traveller",
+        "Timing": "02 h 45 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 5608",
+        "Ticket Cost": "\u20b9 15,260\nper traveller",
+        "Timing": "02 h 45 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 549, I5 992",
+        "Ticket Cost": "\u20b9 15,441\nper traveller",
+        "Timing": "07 h 35 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 502",
+        "Ticket Cost": "\u20b9 15,583\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 815",
+        "Ticket Cost": "\u20b9 15,583\nper traveller",
+        "Timing": "03 h",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 512",
+        "Ticket Cost": "\u20b9 15,583\nper traveller",
+        "Timing": "03 h 20 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 504",
+        "Ticket Cost": "\u20b9 15,583\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Vistara",
+        "Airline_number": "UK 817",
+        "Ticket Cost": "\u20b9 15,646\nper traveller",
+        "Timing": "02 h 40 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Vistara",
+        "Airline_number": "UK 813",
+        "Ticket Cost": "\u20b9 15,646\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 330, I5 975",
+        "Ticket Cost": "\u20b9 15,950\nper traveller",
+        "Timing": "05 h 10 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Akasa Air",
+        "Airline_number": "QP 1350",
+        "Ticket Cost": "\u20b9 17,248\nper traveller",
+        "Timing": "02 h 35 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Akasa Air",
+        "Airline_number": "QP 1409",
+        "Ticket Cost": "\u20b9 17,248\nper traveller",
+        "Timing": "03 h 50 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 799, I5 673",
+        "Ticket Cost": "\u20b9 17,526\nper traveller",
+        "Timing": "06 h 30 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 6622",
+        "Ticket Cost": "\u20b9 17,850\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2338",
+        "Ticket Cost": "\u20b9 17,850\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 6565",
+        "Ticket Cost": "\u20b9 17,850\nper traveller",
+        "Timing": "02 h 45 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 514",
+        "Ticket Cost": "\u20b9 18,344\nper traveller",
+        "Timing": "02 h 55 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Air India",
+        "Airline_number": "AI 506",
+        "Ticket Cost": "\u20b9 18,344\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Vistara",
+        "Airline_number": "UK 809",
+        "Ticket Cost": "\u20b9 18,407\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "Vistara",
+        "Airline_number": "UK 807",
+        "Ticket Cost": "\u20b9 18,407\nper traveller",
+        "Timing": "02 h 40 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 764, I5 819",
+        "Ticket Cost": "\u20b9 19,520\nper traveller",
+        "Timing": "04 h 20 m",
+        "Direct or Layover": "Lay over in india"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 740",
+        "Ticket Cost": "\u20b9 19,950\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "AirAsia",
+        "Airline_number": "I5 1534",
+        "Ticket Cost": "\u20b9 19,950\nper traveller",
+        "Timing": "02 h 40 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2487",
+        "Ticket Cost": "\u20b9 20,233\nper traveller",
+        "Timing": "02 h 35 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2302",
+        "Ticket Cost": "\u20b9 20,233\nper traveller",
+        "Timing": "02 h 45 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "IndiGo",
+        "Airline_number": "6E 2131",
+        "Ticket Cost": "\u20b9 20,233\nper traveller",
+        "Timing": "02 h 50 m",
+        "Direct or Layover": "Non stop"
+    },
+    {
+        "Origin_location to Destination_location": "Delhi to Bangalore",
+        "Airline_Name": "SpiceJet",
+        "Airline_number": "SG 534",
+        "Ticket Cost": "\u20b9 21,095\nper traveller",
+        "Timing": "02 h 40 m",
+        "Direct or Layover": "Non stop"
+    }
+]
