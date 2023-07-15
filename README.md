@@ -1,1 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)]
+[![MasterHead](https://source.unsplash.com/1000x600/?flights)]
+Flight Price Scraping
+This project focuses on scraping flight prices from various airlines and travel websites. By leveraging web scraping techniques, it aims to gather real-time flight price data for analysis and comparison. The scraping process involves automated data extraction from specific web pages, capturing relevant information such as departure and arrival locations, dates, prices, and airlines. The collected data can be utilized for various purposes, including market research, price tracking, and building price comparison tools. This project provides a foundation for obtaining up-to-date flight prices efficiently, empowering users to make informed decisions when booking flights.
